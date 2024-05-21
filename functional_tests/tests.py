@@ -1,4 +1,4 @@
-from seleniumwire import webdriver
+from selenium import webdriver
 import unittest
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
